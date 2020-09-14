@@ -1,2 +1,2 @@
-# algoritmos 
-# Estudiante: Rodriguez, Natalia Stefania
+# Algoritmos 
+Estudiante: Rodriguez, Natalia Stefania
